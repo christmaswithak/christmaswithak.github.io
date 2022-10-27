@@ -46,6 +46,8 @@ h1 {
 }
 
 nav {
+    column-count: 5;
+  gap: 20px;
     float: none;
     position: absolute;
     top: 50%;
